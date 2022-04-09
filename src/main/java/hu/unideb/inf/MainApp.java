@@ -13,6 +13,7 @@ import java.util.logging.Logger;
 public class MainApp extends Application {
 
     //mc1
+    //mc2
     @Override
     public void start(Stage stage) throws Exception {
         FXMLLoader loader = new FXMLLoader(MainApp.class.getResource("/fxml/login.fxml"));
